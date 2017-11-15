@@ -3,7 +3,7 @@
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more information.
 
 # DevOps Scenarios
-
+* [Infrastructure as Code](infrastructure-as-code/articles/)
 * [DevTest Labs](devtest-labs/articles/)
 * [Mobile DevOp](mobile-devops/articles/)
 * [VSTS](vsts/articles/vsts-walkthrough.md)
